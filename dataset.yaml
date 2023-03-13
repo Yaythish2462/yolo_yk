@@ -1,0 +1,6 @@
+train: C:\Users\YAYTHISH KANNAA G S\yolov5-master\walldataset\images\train
+val: C:\Users\YAYTHISH KANNAA G S\yolov5-master\walldataset\images\val 
+
+nc: 1
+
+names: ["wall crack"]
